@@ -1,2 +1,2 @@
 # Demographics-Health-Risks-D3
-Analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
+Used html,javascript,D3 to analyze the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help understand findings.
